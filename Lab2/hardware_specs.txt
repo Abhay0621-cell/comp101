@@ -1,0 +1,6 @@
+Computer Type: Macbook Pro
+CPU: Intel I7
+Memory: 16 GB
+OS: macOS sequoia 15.7.8
+HD: 499.96 GB
+Display Resolution: 3072x1920
